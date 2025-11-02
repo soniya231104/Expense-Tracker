@@ -140,7 +140,7 @@ By developing and using this project you will:
 ## 💬 Author
 
 **👩‍💻 Developed by:** [Soniya](https://github.com/soniya231104)
-**📧 Contact:** [soniyaxxxxxx@gmail.com](mailto:soniyaxxxxxx@gmail.com) *(update with your real email if desired)*
+**📧 Contact:** [soniya.231104@gmail.com](mailto:soniya.231104@gmail.com) 
 **📍 Location:** India
 
 > *Bringing clarity, simplicity, and design into personal finance tracking.*
